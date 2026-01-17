@@ -72,8 +72,3 @@ To create a scalable coding platform where users can practice DSA, compete in li
 - Personalized problem recommendations using ML
 - Gamification (badges, streaks, rewards)
 - University and corporate hiring collaborations
-
-## 👨‍💻 Author
-
-**Sameer Khan**  
-MCA Student | MERN Stack Developer
